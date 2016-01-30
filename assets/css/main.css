@@ -11,8 +11,8 @@ body {
     font-family: 'Pingfang SC', 'Lantinghei SC', 'Helvetica Neue', Helvetica, sans-serif;
     font-size: 16px;
 
-    -webkit-font-smoothing: antialiased;
-    -webkit-overflow-scrolling: touch;
+/*    -webkit-font-smoothing: antialiased;
+    -webkit-overflow-scrolling: touch;*/
 }
 
 /* Titles */
@@ -79,7 +79,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .section h3{
     margin-bottom: 30px;
-    font-weight: 600;
+    /*font-weight: 600;*/
 }
 .progress-bar-tl{
     background-color: #1abc9c;
