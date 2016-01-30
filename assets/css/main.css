@@ -1,0 +1,83 @@
+ /* Author: Carlos Alvarez
+ * URL: http://alvarez.is
+ *
+ * Project Name: Kelvin - Free Bootstrap 3 Resume Theme
+ * Version: 1.0
+ * URL: http://blacktie.co
+ */
+
+body {
+    background-color: #f2f2f2;
+    font-family: 'Pingfang SC', 'Lantinghei SC', 'Helvetica Neue', Helvetica, sans-serif;
+    font-size: 16px;
+
+    -webkit-font-smoothing: antialiased;
+    -webkit-overflow-scrolling: touch;
+}
+
+/* Titles */
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Raleway";
+    font-weight: 300;
+    color: #333;
+}
+
+.section{
+    padding: 15px 0;
+    border-bottom: 1px solid #d6d6d6;
+}
+
+.about ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+.about li{
+    margin-bottom: 10px;    
+}
+.about i{
+    font-style: normal;
+    margin: 0 .25em;
+    font-family: sans-serif;
+    color: #ccc;
+}
+.about .glyphicon{
+    vertical-align: -2px;
+    margin-right: 5px;
+}
+
+.works ol{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.works li{
+    margin: 20px 0;
+}
+
+.works h4{
+    color: #34495e;
+    font-weight: 700;
+    line-height: 1.3
+}
+
+.works h4 a{
+    margin-left: 10px;
+}
+
+.works p{
+    color: #95a5a6;
+}
+
+.skills dt{
+    margin-bottom: 5px;
+    font-weight: 300;
+}
+
+.section h3{
+    margin-bottom: 30px;
+}
+.progress-bar-tl{
+    background-color: #1abc9c;
+}
